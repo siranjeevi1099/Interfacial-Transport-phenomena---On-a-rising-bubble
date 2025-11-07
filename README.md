@@ -8,4 +8,4 @@ centration Γ(θ) of an insoluble surfactant (with
  distribution. Under creeping-flow and axisym
 metric conditions, the interfacial balance reduces
  to the steady surface advection–diffusion equa
-tion on the bubble surface.
+tion on the bubble surface. (Have included all the matlab files created to analyse the above project for reference.,
